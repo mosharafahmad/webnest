@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="160dp"
+    android:viewportWidth="200"
+    android:viewportHeight="160">
+    <!-- Soft backdrop circles -->
+    <path
+        android:fillColor="#1A4285F4"
+        android:pathData="M100,82m-64,0a64,64 0,1 1,128 0a64,64 0,1 1,-128 0" />
+    <path
+        android:fillColor="#2434A853"
+        android:pathData="M148,44m-18,0a18,18 0,1 1,36 0a18,18 0,1 1,-36 0" />
+    <path
+        android:fillColor="#29FBBC05"
+        android:pathData="M50,112m-14,0a14,14 0,1 1,28 0a14,14 0,1 1,-28 0" />
+    <!-- Browser Window Card -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:strokeColor="#FFDADCE0"
+        android:strokeWidth="2"
+        android:pathData="M44,36h112c6.6,0 12,5.4 12,12v64c0,6.6 -5.4,12 -12,12H44c-6.6,0 -12,-5.4 -12,-12V48C32,41.4 37.4,36 44,36z" />
+    <!-- Browser Header Dots in Chrome Colors -->
+    <path
+        android:fillColor="#FFEA4335"
+        android:pathData="M48,49m-4,0a4,4 0,1 1,8 0a4,4 0,1 1,-8 0" />
+    <path
+        android:fillColor="#FFFBBC05"
+        android:pathData="M60,49m-4,0a4,4 0,1 1,8 0a4,4 0,1 1,-8 0" />
+    <path
+        android:fillColor="#FF34A853"
+        android:pathData="M72,49m-4,0a4,4 0,1 1,8 0a4,4 0,1 1,-8 0" />
+    <!-- Content lines -->
+    <path
+        android:fillColor="#FFE8F0FE"
+        android:pathData="M46,66h64v10h-64z" />
+    <path
+        android:fillColor="#FFF1F3F4"
+        android:pathData="M46,84h84v8h-84z" />
+    <path
+        android:fillColor="#FFF1F3F4"
+        android:pathData="M46,98h52v8h-52z" />
+    <!-- Floating Bookmark Ribbon -->
+    <path
+        android:fillColor="#FF4285F4"
+        android:pathData="M122,26h26c2.2,0 4,1.8 4,4v54l-17,-9.5L118,84V30C118,27.8 119.8,26 122,26z" />
+    <path
+        android:fillColor="#FFFBBC05"
+        android:pathData="M135,38l2.5,5.1l5.6,0.8l-4,4l0.9,5.6l-5,-2.6l-5,2.6l0.9,-5.6l-4,-4l5.6,-0.8z" />
+</vector>

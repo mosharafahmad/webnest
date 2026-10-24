@@ -1,0 +1,6 @@
+{
+  "name": "WebNest",
+  "description": "A modern, Chrome-inspired website bookmark manager with Room local storage, pinning, search, and JSON backup/restore.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
